@@ -1,0 +1,101 @@
+program MyProgram 
+{
+	{		
+		int a, b;
+		char c;
+		float d, e, f;
+		bool g,h[4];
+		int i[8];
+	}	
+
+	int f1(){
+		i[8] = 15;
+		return i[8];
+
+	}
+
+	bool f2(int a, char b, bool c){
+		
+	}
+	void abc(int a){
+		char a, b;
+		a = true;
+		b = false;
+		return ;
+	}
+
+	int abcd(int a){
+		return a+1;
+	}
+	
+	float a(int a, float b, char c, bool d){
+		abc(a);
+		abc(a+2);
+		a = abcd(abcd(1)+abcd(2));
+		if(abc())then{};
+		if(a == 4)then{};
+		if(a[4*2])then{
+			while(i < 7){
+				if(i % 2 == 0)then{
+					break;
+				}else{
+					i = i + 1;
+					continue;
+				};
+			};
+			;	
+		} else {
+			for(; a; a){
+				for(a = 2 + 4; 45; a = a + 1){
+				};
+			};	
+		};
+		switch(a){
+			case 1: {}
+			case 'a' : break;
+			case true : return;
+			case 3.4 : ;
+			case false : {read(a);write(a);write("text");}	
+			default : continue;
+		};
+		switch(b){};
+		x[3] = 'a';
+		return (3.2*5);
+	}
+
+	int operation(){
+		a = a < b;
+		a = a < b < c;
+		a = a <= b;
+		a = a > a;
+		if(a == b)then{
+			if(a != b)then {
+				a = a&& b;
+				a = a& b;
+				a = a | b;
+				if(a || b&c)then{
+					a = a+b-c;
+					a = a*b/c%d;
+					a = !a;
+					a = -5;
+					a = -5 - 3 + 2;				
+				};
+				if(a > b && b < a && a >= a & a <= a || false | false)then{
+				};
+			}else{
+				write("This is "	+"String" + " !!!");
+			};
+		};
+	}
+
+	int b(){
+		abc();
+		abc(abc());
+		b();
+		a(1, 1.2, 'a', b);
+	}
+
+	char empty(){
+	}
+
+}
