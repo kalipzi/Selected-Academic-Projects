@@ -1,0 +1,68 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m32def.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\Debug\Final Project.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Final Project.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Final Project.map</FILE>
+  <FILE>Final Project.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SHOW><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>137</LINE></SHOW>
+  <SELECT><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>35</LINE></SELECT>
+  <LOOP><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>39</LINE></LOOP>
+  <CHECK><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>48</LINE></CHECK>
+  <COUNTER_BEGIN><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>62</LINE></COUNTER_BEGIN>
+  <FPSB><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>105</LINE></FPSB>
+  <SPSB><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>74</LINE></SPSB>
+  <TPSB><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>69</LINE></TPSB>
+  <CONTINUE1><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>82</LINE></CONTINUE1>
+  <CONTINUE2><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>92</LINE></CONTINUE2>
+  <CONTINUE3><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>113</LINE></CONTINUE3>
+  <CONTINUE4><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>124</LINE></CONTINUE4>
+  <CODE1><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>169</LINE></CODE1>
+  <TWO><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>149</LINE></TWO>
+  <CODE2><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>234</LINE></CODE2>
+  <END><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>160</LINE></END>
+  <TABLE><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>179</LINE></TABLE>
+  <SEND0><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>191</LINE></SEND0>
+  <SEND1><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>195</LINE></SEND1>
+  <SEND2><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>199</LINE></SEND2>
+  <SEND3><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>203</LINE></SEND3>
+  <SEND4><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>207</LINE></SEND4>
+  <SEND5><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>211</LINE></SEND5>
+  <SEND6><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>215</LINE></SEND6>
+  <SEND7><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>220</LINE></SEND7>
+  <SEND8><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>224</LINE></SEND8>
+  <SEND9><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>228</LINE></SEND9>
+  <TABLE2><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>244</LINE></TABLE2>
+  <SEND20><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>256</LINE></SEND20>
+  <SEND21><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>260</LINE></SEND21>
+  <SEND22><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>264</LINE></SEND22>
+  <SEND23><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>268</LINE></SEND23>
+  <SEND24><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>272</LINE></SEND24>
+  <SEND25><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>276</LINE></SEND25>
+  <SEND26><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>280</LINE></SEND26>
+  <SEND27><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>285</LINE></SEND27>
+  <SEND28><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>289</LINE></SEND28>
+  <SEND29><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>293</LINE></SEND29>
+  <DELAY><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>299</LINE></DELAY>
+  <LOOP1><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>301</LINE></LOOP1>
+  <LOOP2><FILE>C:\Users\Zahra\Documents\Atmel Studio\7.0\Final Project\Final Project\main.asm</FILE><LINE>303</LINE></LOOP2>
+ </LABELS>
+</ASSEMBLER_INFO>

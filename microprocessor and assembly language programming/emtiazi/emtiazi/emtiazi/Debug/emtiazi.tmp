@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>c:\users\zahra\Documents\Atmel Studio\7.0\emtiazi\emtiazi\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\zahra\Documents\Atmel Studio\7.0\emtiazi\emtiazi\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m32def.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\zahra\Documents\Atmel Studio\7.0\emtiazi\emtiazi\Debug\emtiazi.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>emtiazi.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>emtiazi.map</FILE>
+  <FILE>emtiazi.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MYDATA><FILE>c:\users\zahra\Documents\Atmel Studio\7.0\emtiazi\emtiazi\main.asm</FILE><LINE>111</LINE></MYDATA>
+  <DELAY><FILE>c:\users\zahra\Documents\Atmel Studio\7.0\emtiazi\emtiazi\main.asm</FILE><LINE>95</LINE></DELAY>
+  <START><FILE>c:\users\zahra\Documents\Atmel Studio\7.0\emtiazi\emtiazi\main.asm</FILE><LINE>54</LINE></START>
+  <CONTINUE><FILE>c:\users\zahra\Documents\Atmel Studio\7.0\emtiazi\emtiazi\main.asm</FILE><LINE>65</LINE></CONTINUE>
+  <END><FILE>c:\users\zahra\Documents\Atmel Studio\7.0\emtiazi\emtiazi\main.asm</FILE><LINE>71</LINE></END>
+  <FINISH><FILE>c:\users\zahra\Documents\Atmel Studio\7.0\emtiazi\emtiazi\main.asm</FILE><LINE>106</LINE></FINISH>
+  <LOOP1><FILE>c:\users\zahra\Documents\Atmel Studio\7.0\emtiazi\emtiazi\main.asm</FILE><LINE>97</LINE></LOOP1>
+  <LOOP2><FILE>c:\users\zahra\Documents\Atmel Studio\7.0\emtiazi\emtiazi\main.asm</FILE><LINE>99</LINE></LOOP2>
+ </LABELS>
+</ASSEMBLER_INFO>
