@@ -1,9 +1,0 @@
-c:\users\zahra\documents\visual studio 2015\Projects\NQUEEN(Genetic)\NQUEEN(Genetic)\bin\Debug\NQUEEN(Genetic).exe.config
-c:\users\zahra\documents\visual studio 2015\Projects\NQUEEN(Genetic)\NQUEEN(Genetic)\bin\Debug\NQUEEN(Genetic).exe
-c:\users\zahra\documents\visual studio 2015\Projects\NQUEEN(Genetic)\NQUEEN(Genetic)\bin\Debug\NQUEEN(Genetic).pdb
-c:\users\zahra\documents\visual studio 2015\Projects\NQUEEN(Genetic)\NQUEEN(Genetic)\obj\Debug\NQUEEN(Genetic).csprojResolveAssemblyReference.cache
-c:\users\zahra\documents\visual studio 2015\Projects\NQUEEN(Genetic)\NQUEEN(Genetic)\obj\Debug\NQUEEN_Genetic_.Form1.resources
-c:\users\zahra\documents\visual studio 2015\Projects\NQUEEN(Genetic)\NQUEEN(Genetic)\obj\Debug\NQUEEN_Genetic_.Properties.Resources.resources
-c:\users\zahra\documents\visual studio 2015\Projects\NQUEEN(Genetic)\NQUEEN(Genetic)\obj\Debug\NQUEEN(Genetic).csproj.GenerateResource.Cache
-c:\users\zahra\documents\visual studio 2015\Projects\NQUEEN(Genetic)\NQUEEN(Genetic)\obj\Debug\NQUEEN(Genetic).exe
-c:\users\zahra\documents\visual studio 2015\Projects\NQUEEN(Genetic)\NQUEEN(Genetic)\obj\Debug\NQUEEN(Genetic).pdb
