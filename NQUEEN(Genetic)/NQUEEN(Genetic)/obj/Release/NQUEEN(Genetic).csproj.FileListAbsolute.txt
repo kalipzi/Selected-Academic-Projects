@@ -1,9 +1,0 @@
-C:\Users\Zahra\Documents\Visual Studio 2015\Projects\NQUEEN(Genetic)\NQUEEN(Genetic)\bin\Release\NQUEEN(Genetic).exe.config
-C:\Users\Zahra\Documents\Visual Studio 2015\Projects\NQUEEN(Genetic)\NQUEEN(Genetic)\bin\Release\NQUEEN(Genetic).exe
-C:\Users\Zahra\Documents\Visual Studio 2015\Projects\NQUEEN(Genetic)\NQUEEN(Genetic)\bin\Release\NQUEEN(Genetic).pdb
-C:\Users\Zahra\Documents\Visual Studio 2015\Projects\NQUEEN(Genetic)\NQUEEN(Genetic)\obj\Release\NQUEEN_Genetic_.Form1.resources
-C:\Users\Zahra\Documents\Visual Studio 2015\Projects\NQUEEN(Genetic)\NQUEEN(Genetic)\obj\Release\NQUEEN_Genetic_.Properties.Resources.resources
-C:\Users\Zahra\Documents\Visual Studio 2015\Projects\NQUEEN(Genetic)\NQUEEN(Genetic)\obj\Release\NQUEEN(Genetic).csproj.GenerateResource.Cache
-C:\Users\Zahra\Documents\Visual Studio 2015\Projects\NQUEEN(Genetic)\NQUEEN(Genetic)\obj\Release\NQUEEN(Genetic).exe
-C:\Users\Zahra\Documents\Visual Studio 2015\Projects\NQUEEN(Genetic)\NQUEEN(Genetic)\obj\Release\NQUEEN(Genetic).pdb
-C:\Users\Zahra\Documents\Visual Studio 2015\Projects\NQUEEN(Genetic)\NQUEEN(Genetic)\obj\Release\NQUEEN(Genetic).csprojResolveAssemblyReference.cache
